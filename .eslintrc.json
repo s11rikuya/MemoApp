@@ -1,0 +1,9 @@
+{
+  "extend": "airbnb",
+  "pligons": {
+    "react",
+    "jsx-a11y",
+    "import"
+  },
+  "parser": "babel-eslint"
+}
